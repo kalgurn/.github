@@ -1,4 +1,4 @@
 pullRequestValidityDays: 30
 issueValidityDays: 30
 branchValidityDays: 30
-testValidity: 1
+testValidity: 2
