@@ -1,4 +1,10 @@
 pullRequestValidityDays: 30
 issueValidityDays: 30
 branchValidityDays: 30
-testValidity: 2
+labels:
+ - name: "stale"
+   color: "804000"
+   description: "This label will indicate stale branch, issue or a pull request"
+ - name: "test"
+   color: "000000"
+   description: "testing"
